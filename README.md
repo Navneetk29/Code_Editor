@@ -66,11 +66,6 @@ Contributions are welcome! Whether it's a bug fix, new feature, or improvement, 
 - [Next.js](https://nextjs.org/)
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/)
 
-## 📫 Contact
-
-- **Author**: [Mohammed Asim Ahmed](https://github.com/mohammedasimahmed)
-- **Email**: mohammedasim9298@gmail.com
-
 Feel free to reach out if you have any questions or suggestions.
 
 ---
@@ -79,4 +74,4 @@ Feel free to reach out if you have any questions or suggestions.
 
 If you found this project useful, please consider giving it a ⭐ on GitHub!
 
-[![GitHub stars](https://img.shields.io/github/stars/mohammedasimahm
+[![GitHub stars](https://img.shields.io/github/stars/
