@@ -74,4 +74,4 @@ Feel free to reach out if you have any questions or suggestions.
 
 If you found this project useful, please consider giving it a ⭐ on GitHub!
 
-[![GitHub stars](https://img.shields.io/github/stars/
+[![GitHub stars]
