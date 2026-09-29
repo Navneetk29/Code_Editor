@@ -15,7 +15,7 @@ A powerful, user-friendly code editor built with **Next.js** that allows you to 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mohammedasimahmed/Code_Editor.git
+   git clone https://github.com/navneetkumar/Code_Editor.git
    cd Code_Editor
    ```
 
